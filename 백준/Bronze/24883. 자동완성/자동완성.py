@@ -1,0 +1,1 @@
+print("Naver D2" if input().rstrip().lower() == "n" else "Naver Whale" )
